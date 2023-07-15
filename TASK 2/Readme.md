@@ -1,4 +1,4 @@
-**BEGINNER LEVEL- TASK1: TO DO LIST**
+**TASK 2: TO DO LIST**
 
 **Description:** A practical and intuitive to-do list website developed to help users organize and manage their tasks efficiently..
 
